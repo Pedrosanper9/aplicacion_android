@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">FestiApp</string>
+    <string name="action_myAccount">Mi cuenta</string>
+    <string name="action_artists">Artistas</string>
+    <string name="action_contact">Contacta</string>
+    <string name="action_festivals">Festivales</string>
 </resources>
