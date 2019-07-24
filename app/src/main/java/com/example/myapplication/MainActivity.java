@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_myAccount) {
+        if (id == R.id.actionMyAccount) {
             return true;
         }
 

@@ -3,23 +3,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.myapplication.MainActivity">
     <item
-        android:id="@+id/action_myAccount"
+        android:id="@+id/actionMyAccount"
         android:orderInCategory="1"
-        android:title="@string/action_myAccount"
+        android:title="@string/actionMyAccount"
         app:showAsAction="never" />
     <item
-        android:id="@+id/action_festivals"
+        android:id="@+id/actionFestivals"
         android:orderInCategory="2"
-        android:title="@string/action_festivals"
+        android:title="@string/actionFestivals"
         app:showAsAction="never" />
     <item
-        android:id="@+id/action_artists"
+        android:id="@+id/actionArtists"
         android:orderInCategory="3"
-        android:title="@string/action_artists"
+        android:title="@string/actionArtists"
         app:showAsAction="never" />
     <item
-        android:id="@+id/action_contact"
+        android:id="@+id/actionContact"
         android:orderInCategory="4"
-        android:title="@string/action_contact"
+        android:title="@string/actionContact"
         app:showAsAction="never" />
 </menu>

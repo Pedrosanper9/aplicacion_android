@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">FestiApp</string>
-    <string name="action_myAccount">Mi cuenta</string>
-    <string name="action_artists">Artistas</string>
-    <string name="action_contact">Contacta</string>
-    <string name="action_festivals">Festivales</string>
+    <string name="appName">FestiApp</string>
+    <string name="actionMyAccount">Mi cuenta</string>
+    <string name="actionArtists">Artistas</string>
+    <string name="actionContact">Contacta</string>
+    <string name="actionFestivals">Festivales</string>
 </resources>
